@@ -1,0 +1,3 @@
+#!/bin/bash
+# Kasutaja tervitus
+echo "Tere, kasutajanimi!"
